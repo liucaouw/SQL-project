@@ -1,5 +1,5 @@
 # SQL-project
-This is a project about data management and information processing.You can get the same results according to the following procedures:
+In this project, we can learn how to build db file by python and search for something we need based on acquired raw data.You can get the same results according to the following procedures:
 
 (1) Delete database file uw-madison-courses.db to ensure that you can sucessfully running the code.
 
